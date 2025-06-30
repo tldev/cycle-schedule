@@ -1,0 +1,12 @@
+# ./gitignore
+
+# Environment variables
+# This is the file that will hold your secret token. DO NOT COMMIT IT.
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log

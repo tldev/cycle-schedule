@@ -1,0 +1,903 @@
+[
+    {
+        "date": "2025-06-07",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily",
+                "is_start": true
+            }
+        ]
+    },
+    {
+        "date": "2025-06-08",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-09",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-10",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-11",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Inject Sub Q 2x Weekly",
+                "is_start": true
+            }
+        ]
+    },
+    {
+        "date": "2025-06-12",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-13",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-14",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Inject Sub Q 2x Weekly"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-15",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-17",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-18",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inj Sub Q 2x weekly"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-19",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-20",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-21",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inject Sub Q 2x weekly"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-22",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-23",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-24",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-25",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inj Sub Q 2x weekly"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-26",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-27",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily",
+                "is_start": true
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG tabs 2x/day Insert 1/2 tablet vaginally twice a day",
+                "is_start": true
+            }
+        ]
+    },
+    {
+        "date": "2025-06-28",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inject sub Q 2x weekly"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-29",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-30",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-01",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-02",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope Inject Sub Q 2x weekly"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-03",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-04",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-05",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope Inject sub Q 2x weekly"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-06",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-07",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-08",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-09",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day",
+                "is_stop": true
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope Inject Sub Q 2x weekly"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-10",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-11",
+        "milestone": "Baseline sonogram",
+        "appointments": [
+            {
+                "time": "8:30 AM",
+                "what": "Baseline sonogram",
+                "where": "Advanced Reproductive Specialists - Panama"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG (2) 5mg tablet by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-12",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Norethindrone",
+                "details": "10 MG Norethindrone (2) 5mg tablet by mouth daily",
+                "is_stop": true
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope Inject Sub Q 2x weekly"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-13",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-14",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-15",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-16",
+        "milestone": "STIM: Start",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert (1/2) 0.5mg tablet vaginally twice a day",
+                "is_start": true
+            },
+            {
+                "name": "Clomid",
+                "details": "100 MG Clomid Take 100 MG by mouth when directed on calendar",
+                "is_start": true
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inject Sub Q",
+                "is_start": true
+            },
+            {
+                "name": "Follistim",
+                "details": "150 IU Follistim inject sub Q daily, (6-8pm)",
+                "is_start": true
+            },
+            {
+                "name": "Menopur",
+                "details": "150 IU Menopur inject sub Q daily, (6-8pm)",
+                "is_start": true
+            }
+        ]
+    },
+    {
+        "date": "2025-07-17",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert (1/2) 0.5mg tablet vaginally twice a day"
+            },
+            {
+                "name": "Clomid",
+                "details": "100 MG Clomid Take 100 MG by mouth when directed on calendar"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inject Sub Q"
+            },
+            {
+                "name": "Follistim",
+                "details": "150 IU Follistim inject sub Q daily, (6-8pm)"
+            },
+            {
+                "name": "Menopur",
+                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-18",
+        "milestone": "U/S - Follicle monitoring",
+        "appointments": [
+            {
+                "time": "TBD AM",
+                "what": "Follicle monitoring",
+                "where": "Advanced Reproductive Specialists"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert (1/2) 0.5mg tablet vaginally twice a day"
+            },
+            {
+                "name": "Clomid",
+                "details": "100 MG Clomid Take 100 MG by mouth when directed on calendar"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inject Sub Q"
+            },
+            {
+                "name": "Follistim",
+                "details": "225 IU Follistim inject sub Q daily, (6-8pm)",
+                "is_start": true
+            },
+            {
+                "name": "Menopur",
+                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-19",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert (1/2) 0.5mg tablet vaginally twice a day"
+            },
+            {
+                "name": "Clomid",
+                "details": "100 MG Clomid Take 100 MG by mouth when directed on calendar"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inject Sub Q"
+            },
+            {
+                "name": "Follistim",
+                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+            },
+            {
+                "name": "Menopur",
+                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-20",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 MG Estradiol tabs 2x/day Insert (1/2) 0.5mg tablet vaginally twice a day",
+                "is_stop": true
+            },
+            {
+                "name": "Clomid",
+                "details": "100 MG Clomid Take 100 MG by mouth when directed on calendar",
+                "is_stop": true
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inject Sub Q"
+            },
+            {
+                "name": "Follistim",
+                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+            },
+            {
+                "name": "Menopur",
+                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-21",
+        "milestone": "U/S - Follicle monitoring",
+        "appointments": [
+            {
+                "time": "8:30 AM",
+                "what": "Follicle monitoring",
+                "where": "Advanced Reproductive Specialists - Panama"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inject Sub Q"
+            },
+            {
+                "name": "Follistim",
+                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+            },
+            {
+                "name": "Menopur",
+                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+            },
+            {
+                "name": "Ganirelix",
+                "details": "250 MCG Ganirelix inject sub Q daily, (6-8pm)",
+                "is_start": true
+            }
+        ]
+    },
+    {
+        "date": "2025-07-22",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inject Sub Q"
+            },
+            {
+                "name": "Follistim",
+                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+            },
+            {
+                "name": "Menopur",
+                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+            },
+            {
+                "name": "Ganirelix",
+                "details": "250 MCG Ganirelix inject sub Q daily, (6-8pm)"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-23",
+        "milestone": "U/S - Follicle monitoring",
+        "appointments": [
+            {
+                "time": "9:30 AM",
+                "what": "Follicle monitoring",
+                "where": "Advanced Reproductive Specialists - Panama"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inject Sub Q"
+            },
+            {
+                "name": "Follistim",
+                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+            },
+            {
+                "name": "Menopur",
+                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+            },
+            {
+                "name": "Ganirelix",
+                "details": "250 MCG Ganirelix inject sub Q daily, (6-8pm)"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-24",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25iu Omnitrope inject Sub Q",
+                "is_stop": true
+            },
+            {
+                "name": "Follistim",
+                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+            },
+            {
+                "name": "Menopur",
+                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+            },
+            {
+                "name": "Ganirelix",
+                "details": "250 MCG Ganirelix inject sub Q daily, (6-8pm)"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-25",
+        "milestone": "E2 (Lab) & U/S - Follicle monitoring",
+        "appointments": [
+            {
+                "time": "8:00 AM",
+                "what": "E2 Lab & Follicle monitoring",
+                "where": "Advanced Reproductive Specialists - Panama"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Follistim",
+                "details": "225 IU Follistim inject sub Q daily, (6-8pm)",
+                "is_stop": true
+            },
+            {
+                "name": "Menopur",
+                "details": "150 IU Menopur inject sub Q daily, (6-8pm)",
+                "is_stop": true
+            },
+            {
+                "name": "Ganirelix",
+                "details": "250 MCG Ganirelix inject sub Q daily, (6-8pm)",
+                "is_stop": true
+            }
+        ]
+    },
+    {
+        "date": "2025-07-26",
+        "milestone": "TRG: Trigger & U/S - Follicle monitoring",
+        "appointments": [
+            {
+                "time": "10:30 AM",
+                "what": "Follicle monitoring",
+                "where": "Advanced Reproductive Specialists - Panama"
+            }
+        ],
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Pregnyl",
+                "details": "10000 IU Pregnyl inject IM as directed",
+                "is_trigger": true
+            }
+        ]
+    },
+    {
+        "date": "2025-07-27",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "milestone": "RET: Retrieval",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "medications": [
+            {
+                "name": "Prenatal Vitamins",
+                "details": "take 1 by mouth daily"
+            }
+        ]
+    }
+]

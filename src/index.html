@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Cycle Calendar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Cycle Schedule</h1>
+        <nav>
+            <button id="today-btn" class="active">Today</button>
+            <button id="calendar-btn">Calendar</button>
+            <button id="legend-btn">Legend</button>
+        </nav>
+    </header>
+
+    <main>
+        <div id="today-view">
+            <h2 id="today-date"></h2>
+            <div id="today-content"></div>
+            <div id="tomorrow-preview"></div>
+        </div>
+        <div id="calendar-view" class="hidden">
+            <div id="calendar-header">
+                <button id="prev-month-btn">◀</button>
+                <div id="calendar-title-wrapper">
+                    <h2 id="calendar-month-year"></h2>
+                    <button id="go-to-today-btn">Today</button>
+                </div>
+                <button id="next-month-btn">▶</button>
+            </div>
+            <div id="calendar-grid"></div>
+            <div id="calendar-day-details">
+                <p class="details-placeholder">Click a day with events to see details.</p>
+            </div>
+        </div>
+        <div id="legend-view" class="hidden">
+            <div class="card">
+                <h3>Medication Legend</h3>
+                <ul id="legend-list"></ul>
+            </div>
+            <div class="card">
+                <h3>Icon Legend</h3>
+                <ul>
+                    <li class="legend-item"><span class="legend-icon">💊</span> Oral or Other Medication</li>
+                    <li class="legend-item"><span class="legend-icon">💉</span> Injection</li>
+                    <li class="legend-item"><span class="legend-icon">📅</span> Appointment</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

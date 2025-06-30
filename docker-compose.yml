@@ -1,0 +1,19 @@
+# ./docker-compose.yml
+
+version: '3.8'
+
+services:
+  # This is your existing web application service
+  cycleapp:
+    build: .
+    container_name: cycleapp_container
+    restart: unless-stopped
+
+  # This is the new Cloudflare Tunnel service
+  cloudflared-tunnel:
+    image: cloudflare/cloudflared:latest
+    container_name: cloudflared_tunnel_container
+    restart: unless-stopped
+    command: tunnel --no-autoupdate run --token ${TUNNEL_TOKEN}
+    depends_on:
+      - cycleapp
