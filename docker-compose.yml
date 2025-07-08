@@ -17,3 +17,13 @@ services:
     command: tunnel --no-autoupdate run --token ${TUNNEL_TOKEN}
     depends_on:
       - cycleapp
+
+  # This is the new reminder service
+  reminder:
+    build:
+      context: .
+      dockerfile: reminder.Dockerfile
+    container_name: reminder_container
+    restart: unless-stopped
+    env_file:
+      - .env

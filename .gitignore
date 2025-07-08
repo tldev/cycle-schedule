@@ -8,5 +8,7 @@
 .DS_Store
 Thumbs.db
 
+project_context.txt
+
 # Log files
 *.log
