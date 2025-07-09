@@ -27,3 +27,5 @@ services:
     restart: unless-stopped
     env_file:
       - .env
+    command: ["python", "send_reminder.py"]
+

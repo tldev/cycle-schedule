@@ -15,6 +15,7 @@ It is built to be deployed easily and securely as a Docker container, accessible
 * **Responsive Design:** The interface is clean and usable on both desktop and mobile devices.
 * **100% Private:** The app runs entirely on your own hardware. The schedule data never leaves your server.
 * **Securely Accessible:** Uses a Cloudflare Tunnel to provide secure HTTPS access from any device without opening firewall ports or exposing your IP address.
+* **Telegram Reminders:** Get reminders for today's medications and appointments, plus a preview of tomorrow's schedule, sent directly to your Telegram account.
 
 ---
 
@@ -25,6 +26,7 @@ It is built to be deployed easily and securely as a Docker container, accessible
 * **Web Server:** [Nginx](https://www.nginx.com/) (inside a Docker container).
 * **Containerization:** [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/).
 * **Deployment:** [Cloudflare Tunnel](https://www.cloudflare.com/products/zero-trust/tunnel/) (`cloudflared`).
+* **Reminders:** Python with `schedule` and `python-telegram-bot`.
 
 ---
 
@@ -37,6 +39,7 @@ Follow these instructions to get the application running on your own server.
 * A server with **Docker** and **Docker Compose** installed.
 * A **Cloudflare account**.
 * A **domain name** registered and managed through your Cloudflare account.
+* A **Telegram account**.
 
 ### Installation & Deployment
 
@@ -64,9 +67,47 @@ This tunnel will create a secure connection between your server and Cloudflare's
     * **Service -> URL:** `cycle-app:80` (This points to the Nginx container on its internal Docker network).
 8. Click **Save hostname**.
 
-**3. Configure Your Local Environment**
+**3. Create a Telegram Bot & Get Credentials**
 
-The project uses an environment file to securely store your tunnel token.
+1. Open the Telegram app and search for the "BotFather" user.
+2. Start a chat with the BotFather and send the `/newbot` command.
+3. Follow the prompts to give your bot a name and a username.
+4. The BotFather will provide you with a **Bot Token**. Copy this token.
+5. Open the Telegram app and search for the "userinfobot" user.
+6. Start a chat with the userinfobot and send the `/start` command.
+7. The bot will reply with your **Chat ID**. Copy this ID.
+
+**4. Set Up a Group Chat for Shared Reminders (Recommended)**
+
+For couples or families who want to share reminders, it's best to create a group chat with your bot. This way, both you and your partner will receive the same reminders in one place.
+
+1. In Telegram, click the **New Message** button (pencil icon).
+2. Select **New Group**.
+3. Add your partner to the group.
+4. Give the group a name (e.g., "Cycle Reminders").
+5. Create the group.
+6. In the group chat, search for your bot by username and add it to the group.
+7. Send a message in the group (any message will do - this activates the bot).
+8. To get the group's Chat ID easily, add one of these bots to your group:
+    * **@RawDataBot** (recommended) - Search for "@RawDataBot" and add it to your group
+    * **@getidsbot** - Search for "@getidsbot" and add it to your group
+    * **@userinfobot** - Search for "@userinfobot" and add it to your group
+    * Send any message in the group
+    * The bot will reply with the group's Chat ID (it will be a negative number)
+9. Copy this **Group Chat ID** (the negative number).
+
+**Note:** Group chat IDs start with a minus sign (e.g., `-123456789`). This is how Telegram distinguishes groups from individual users.
+
+**Benefits of Using a Group Chat:**
+
+* **Shared visibility:** Both partners see the same reminders
+* **Easy coordination:** No need to forward messages between each other
+* **Single source of truth:** All reminders are in one place
+* **Reduced complexity:** Only one chat ID to manage instead of multiple individual IDs
+
+**5. Configure Your Local Environment**
+
+The project uses an environment file to securely store your tunnel token and Telegram credentials.
 
 1. Copy the example environment file. This command works on Linux/macOS:
 
@@ -75,24 +116,47 @@ The project uses an environment file to securely store your tunnel token.
     ```
 
 2. Open the new `.env` file with a text editor.
-3. Paste the Cloudflare Tunnel token you copied in the previous step.
+3. Paste the Cloudflare Tunnel token and Telegram credentials you copied in the previous steps.
+
+    **For Individual Reminders:**
 
     ```
-
     # ./.env
 
     TUNNEL_TOKEN=eyJhIjoi...<your-long-secret-token-here>...wMiJ9
+    TELEGRAM_BOT_TOKEN=1234567890:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
+    TELEGRAM_CHAT_IDS=123456789
     ```
 
-**4. Launch the Application**
+    **For Group Chat Reminders (Recommended):**
 
-With the token configured, you can now launch both the application and the tunnel using Docker Compose.
+    ```
+    # ./.env
+
+    TUNNEL_TOKEN=eyJhIjoi...<your-long-secret-token-here>...wMiJ9
+    TELEGRAM_BOT_TOKEN=1234567890:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
+    TELEGRAM_CHAT_IDS=-123456789
+    ```
+
+    **For Multiple Recipients:**
+
+    ```
+    # ./.env
+
+    TUNNEL_TOKEN=eyJhIjoi...<your-long-secret-token-here>...wMiJ9
+    TELEGRAM_BOT_TOKEN=1234567890:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
+    TELEGRAM_CHAT_IDS=123456789,-987654321
+    ```
+
+**6. Launch the Application**
+
+With the token and credentials configured, you can now launch the application, tunnel, and reminder bot using Docker Compose.
 
 ```bash
 docker-compose up -d --build
 ```
 
-Your application is now live! You can access it at the public URL you configured (e.g., `https://cycle.mydomain.com`). The Cloudflare Tunnel dashboard should show the tunnel status as "HEALTHY".
+Your application is now live! You can access it at the public URL you configured (e.g., `https://cycle.mydomain.com`). The Cloudflare Tunnel dashboard should show the tunnel status as "HEALTHY". You will also receive reminders in your Telegram account (or group chat) at the scheduled times.
 
 ---
 
@@ -100,9 +164,12 @@ Your application is now live! You can access it at the public URL you configured
 
 ```
 .
-├── docker-compose.yml   # Defines the app and cloudflared services
+├── docker-compose.yml   # Defines the app, cloudflared, and reminder services
 ├── Dockerfile           # Builds the Nginx container for the app
 ├── nginx.conf           # Nginx configuration file
+├── reminder.Dockerfile  # Builds the Python container for the bot
+├── send_reminder.py     # Main application logic for reminders
+├── reminder_logic.py    # Core business logic for generating reminder content
 ├── src/                 # Contains all frontend code and data
 │   ├── app.js           # Main application logic
 │   ├── index.html       # Main HTML file
@@ -114,12 +181,22 @@ Your application is now live! You can access it at the public URL you configured
 
 ---
 
+## 🧪 Testing
+
+To test the reminder notifications for a specific date, you can run the reminder service with the `REMINDER_DATE` environment variable. This will send all reminders for the specified date immediately.
+
+```bash
+docker-compose run --rm -e REMINDER_DATE=YYYY-MM-DD reminder
+```
+
+---
+
 ## ✍️ Customization
 
-To change the schedule, simply edit the **`src/schedule.json`** file. You can add, remove, or modify entries for dates, medications, and appointments. The application will automatically reflect the changes the next time you load it.
+To change the schedule, simply edit the **`src/schedule.json`** file. You can add, remove, or modify entries for dates, medications, and appointments. The application will automatically reflect the changes the next time you load it and the next time a reminder is sent.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License.
