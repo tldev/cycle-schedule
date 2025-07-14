@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             "Estradiol": { color: "var(--color-estradiol)", icon: "💊" },
             "Clomid": { color: "var(--color-clomid)", icon: "💊" },
             "Follistim": { color: "var(--color-follistim)", icon: "💉", videoUrl: "https://www.youtube.com/watch?v=0iz5zu13Gnk" },
+            "Gonal-F": { color: "var(--color-gonal-f)", icon: "💉", videoUrl: "https://www.youtube.com/watch?v=K_MvNC3y1t0" },
             "Menopur": { color: "var(--color-menopur)", icon: "💉", videoUrl: "https://www.youtube.com/watch?v=HBrRpb436A0" },
             "Ganirelix": { color: "var(--color-ganirelix)", icon: "💉", videoUrl: "https://www.youtube.com/watch?v=m1pDSK-1pHM" },
             "Pregnyl": { color: "var(--color-pregnyl)", icon: "💉", videoUrl: "https://www.youtube.com/watch?v=seXGpX_uFBg" },
