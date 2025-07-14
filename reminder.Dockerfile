@@ -13,6 +13,5 @@ WORKDIR /app
 COPY reminder_logic.py .
 COPY send_reminder.py .
 COPY test_telegram.py .
-COPY src/schedule.json src/schedule.json
 
 CMD ["python", "send_reminder.py"]

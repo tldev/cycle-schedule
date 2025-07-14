@@ -30,5 +30,7 @@ services:
     restart: unless-stopped
     env_file:
       - .env
+    volumes:
+      - ./src/schedule.json:/app/src/schedule.json
     command: ["python", "send_reminder.py"]
 
