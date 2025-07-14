@@ -586,14 +586,6 @@
     },
     {
         "date": "2025-07-18",
-        "milestone": "U/S - Follicle monitoring",
-        "appointments": [
-            {
-                "time": "TBD AM",
-                "what": "Follicle monitoring",
-                "where": "Advanced Reproductive Specialists"
-            }
-        ],
         "medications": [
             {
                 "name": "Prenatal Vitamins",
