@@ -45,7 +45,7 @@
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Inject Sub Q 2x Weekly",
+                "details": "25 IU inject Sub-Q 2× weekly",
                 "is_start": true
             }
         ]
@@ -77,7 +77,7 @@
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Inject Sub Q 2x Weekly"
+                "details": "25 IU inject Sub-Q 2× weekly"
             }
         ]
     },
@@ -117,7 +117,7 @@
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope inj Sub Q 2x weekly"
+                "details": "25 IU inject Sub-Q 2× weekly"
             }
         ]
     },
@@ -148,7 +148,7 @@
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope inject Sub Q 2x weekly"
+                "details": "25 IU inject Sub-Q 2× weekly"
             }
         ]
     },
@@ -188,7 +188,7 @@
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope inj Sub Q 2x weekly"
+                "details": "25 IU inject Sub-Q 2× weekly"
             }
         ]
     },
@@ -210,12 +210,12 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily",
+                "details": "10 mg (2 × 5 mg) tablet PO daily",
                 "is_start": true
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG tabs 2x/day Insert 1/2 tablet vaginally twice a day",
+                "details": "0.25 mg tab vag BID (½ tab)",
                 "is_start": true
             }
         ]
@@ -229,15 +229,15 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+                "details": "0.25 mg tab vag BID (½ tab)"
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope inject sub Q 2x weekly"
+                "details": "25 IU inject Sub-Q 2× weekly"
             }
         ]
     },
@@ -250,11 +250,11 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+                "details": "0.25 mg tab vag BID (½ tab)"
             }
         ]
     },
@@ -267,11 +267,11 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+                "details": "0.25 mg tab vag BID (½ tab)"
             }
         ]
     },
@@ -284,11 +284,11 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+                "details": "0.25 mg tab vag BID (½ tab)"
             }
         ]
     },
@@ -301,15 +301,15 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+                "details": "0.25 mg tab vag BID (½ tab)"
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope Inject Sub Q 2x weekly"
+                "details": "25 IU inject Sub-Q 2× weekly"
             }
         ]
     },
@@ -322,11 +322,11 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+                "details": "0.25 mg tab vag BID (½ tab)"
             }
         ]
     },
@@ -339,11 +339,11 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+                "details": "0.25 mg tab vag BID (½ tab)"
             }
         ]
     },
@@ -356,15 +356,15 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+                "details": "0.25 mg tab vag BID (½ tab)"
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope Inject sub Q 2x weekly"
+                "details": "25 IU inject Sub-Q 2× weekly"
             }
         ]
     },
@@ -377,11 +377,11 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+                "details": "0.25 mg tab vag BID (½ tab)"
             }
         ]
     },
@@ -394,11 +394,11 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+                "details": "0.25 mg tab vag BID (½ tab)"
             }
         ]
     },
@@ -411,11 +411,11 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day"
+                "details": "0.25 mg tab vag BID (½ tab)"
             }
         ]
     },
@@ -428,16 +428,16 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert 1/2 tablet vaginally twice a day",
+                "details": "0.25 mg tab vag BID (½ tab)",
                 "is_stop": true
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope Inject Sub Q 2x weekly"
+                "details": "25 IU inject Sub-Q 2× weekly"
             }
         ]
     },
@@ -450,7 +450,7 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             }
         ]
     },
@@ -459,8 +459,8 @@
         "milestone": "Baseline sonogram",
         "appointments": [
             {
-                "time": "8:30 AM",
-                "what": "Baseline sonogram",
+                "time": "08:30",
+                "what": "Baseline sonogram – U/S Generic",
                 "where": "Advanced Reproductive Specialists - Panama"
             }
         ],
@@ -471,7 +471,7 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG (2) 5mg tablet by mouth daily"
+                "details": "10 mg (2 × 5 mg) tablet PO daily"
             }
         ]
     },
@@ -484,12 +484,17 @@
             },
             {
                 "name": "Norethindrone",
-                "details": "10 MG Norethindrone (2) 5mg tablet by mouth daily",
+                "details": "10 mg (2 × 5 mg) tablet PO daily",
                 "is_stop": true
             },
             {
+                "name": "Estradiol",
+                "details": "0.25 mg tab vag BID (½ tab)",
+                "is_start": true
+            },
+            {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope Inject Sub Q 2x weekly"
+                "details": "25 IU inject Sub-Q 2× weekly"
             }
         ]
     },
@@ -499,6 +504,10 @@
             {
                 "name": "Prenatal Vitamins",
                 "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 mg tab vag BID (½ tab)"
             }
         ]
     },
@@ -508,6 +517,10 @@
             {
                 "name": "Prenatal Vitamins",
                 "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 mg tab vag BID (½ tab)"
             }
         ]
     },
@@ -517,6 +530,10 @@
             {
                 "name": "Prenatal Vitamins",
                 "details": "take 1 by mouth daily"
+            },
+            {
+                "name": "Estradiol",
+                "details": "0.25 mg tab vag BID (½ tab)"
             }
         ]
     },
@@ -530,27 +547,26 @@
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert (1/2) 0.5mg tablet vaginally twice a day",
+                "details": "0.25 mg tab vag BID (½ tab)"
+            },
+            {
+                "name": "Omnitrope",
+                "details": "25 IU inject Sub-Q daily",
                 "is_start": true
             },
             {
                 "name": "Clomid",
-                "details": "100 MG Clomid Take 100 MG by mouth when directed on calendar",
+                "details": "100 mg PO (when directed)",
                 "is_start": true
             },
             {
-                "name": "Omnitrope",
-                "details": "25iu Omnitrope inject Sub Q",
-                "is_start": true
-            },
-            {
-                "name": "Follistim",
-                "details": "150 IU Follistim inject sub Q daily, (6-8pm)",
+                "name": "Gonal-F",
+                "details": "225 IU inject Sub-Q daily (6–8 pm)",
                 "is_start": true
             },
             {
                 "name": "Menopur",
-                "details": "150 IU Menopur inject sub Q daily, (6-8pm)",
+                "details": "150 IU inject Sub-Q daily (6–8 pm)",
                 "is_start": true
             }
         ]
@@ -564,23 +580,23 @@
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert (1/2) 0.5mg tablet vaginally twice a day"
-            },
-            {
-                "name": "Clomid",
-                "details": "100 MG Clomid Take 100 MG by mouth when directed on calendar"
+                "details": "0.25 mg tab vag BID (½ tab)"
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope inject Sub Q"
+                "details": "25 IU inject Sub-Q daily"
             },
             {
-                "name": "Follistim",
-                "details": "150 IU Follistim inject sub Q daily, (6-8pm)"
+                "name": "Clomid",
+                "details": "100 mg PO (when directed)"
+            },
+            {
+                "name": "Gonal-F",
+                "details": "225 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Menopur",
-                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+                "details": "150 IU inject Sub-Q daily (6–8 pm)"
             }
         ]
     },
@@ -593,24 +609,24 @@
             },
             {
                 "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert (1/2) 0.5mg tablet vaginally twice a day"
-            },
-            {
-                "name": "Clomid",
-                "details": "100 MG Clomid Take 100 MG by mouth when directed on calendar"
+                "details": "0.25 mg tab vag BID (½ tab)",
+                "is_stop": true
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope inject Sub Q"
+                "details": "25 IU inject Sub-Q daily"
             },
             {
-                "name": "Follistim",
-                "details": "225 IU Follistim inject sub Q daily, (6-8pm)",
-                "is_start": true
+                "name": "Clomid",
+                "details": "100 mg PO (when directed)"
+            },
+            {
+                "name": "Gonal-F",
+                "details": "225 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Menopur",
-                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+                "details": "150 IU inject Sub-Q daily (6–8 pm)"
             }
         ]
     },
@@ -622,24 +638,20 @@
                 "details": "take 1 by mouth daily"
             },
             {
-                "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert (1/2) 0.5mg tablet vaginally twice a day"
+                "name": "Omnitrope",
+                "details": "25 IU inject Sub-Q daily"
             },
             {
                 "name": "Clomid",
-                "details": "100 MG Clomid Take 100 MG by mouth when directed on calendar"
+                "details": "100 mg PO (when directed)"
             },
             {
-                "name": "Omnitrope",
-                "details": "25iu Omnitrope inject Sub Q"
-            },
-            {
-                "name": "Follistim",
-                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+                "name": "Gonal-F",
+                "details": "225 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Menopur",
-                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+                "details": "150 IU inject Sub-Q daily (6–8 pm)"
             }
         ]
     },
@@ -651,35 +663,30 @@
                 "details": "take 1 by mouth daily"
             },
             {
-                "name": "Estradiol",
-                "details": "0.25 MG Estradiol tabs 2x/day Insert (1/2) 0.5mg tablet vaginally twice a day",
-                "is_stop": true
+                "name": "Omnitrope",
+                "details": "25 IU inject Sub-Q daily"
             },
             {
                 "name": "Clomid",
-                "details": "100 MG Clomid Take 100 MG by mouth when directed on calendar",
+                "details": "100 mg PO (when directed)",
                 "is_stop": true
             },
             {
-                "name": "Omnitrope",
-                "details": "25iu Omnitrope inject Sub Q"
-            },
-            {
-                "name": "Follistim",
-                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+                "name": "Gonal-F",
+                "details": "225 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Menopur",
-                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+                "details": "150 IU inject Sub-Q daily (6–8 pm)"
             }
         ]
     },
     {
         "date": "2025-07-21",
-        "milestone": "U/S - Follicle monitoring",
+        "milestone": "U/S – Follicle monitoring",
         "appointments": [
             {
-                "time": "8:30 AM",
+                "time": "08:30",
                 "what": "Follicle monitoring",
                 "where": "Advanced Reproductive Specialists - Panama"
             }
@@ -691,19 +698,19 @@
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope inject Sub Q"
+                "details": "25 IU inject Sub-Q daily"
             },
             {
-                "name": "Follistim",
-                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+                "name": "Gonal-F",
+                "details": "225 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Menopur",
-                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+                "details": "150 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Ganirelix",
-                "details": "250 MCG Ganirelix inject sub Q daily, (6-8pm)",
+                "details": "250 MCG inject Sub-Q daily (6–8 pm)",
                 "is_start": true
             }
         ]
@@ -717,28 +724,28 @@
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope inject Sub Q"
+                "details": "25 IU inject Sub-Q daily"
             },
             {
-                "name": "Follistim",
-                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+                "name": "Gonal-F",
+                "details": "225 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Menopur",
-                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+                "details": "150 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Ganirelix",
-                "details": "250 MCG Ganirelix inject sub Q daily, (6-8pm)"
+                "details": "250 µg inject Sub-Q daily (6–8 pm)"
             }
         ]
     },
     {
         "date": "2025-07-23",
-        "milestone": "U/S - Follicle monitoring",
+        "milestone": "U/S – Follicle monitoring",
         "appointments": [
             {
-                "time": "9:30 AM",
+                "time": "09:30",
                 "what": "Follicle monitoring",
                 "where": "Advanced Reproductive Specialists - Panama"
             }
@@ -750,19 +757,20 @@
             },
             {
                 "name": "Omnitrope",
-                "details": "25iu Omnitrope inject Sub Q"
+                "details": "25 IU inject Sub-Q daily",
+                "is_stop": true
             },
             {
-                "name": "Follistim",
-                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+                "name": "Gonal-F",
+                "details": "225 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Menopur",
-                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+                "details": "150 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Ganirelix",
-                "details": "250 MCG Ganirelix inject sub Q daily, (6-8pm)"
+                "details": "250 µg inject Sub-Q daily (6–8 pm)"
             }
         ]
     },
@@ -774,31 +782,26 @@
                 "details": "take 1 by mouth daily"
             },
             {
-                "name": "Omnitrope",
-                "details": "25iu Omnitrope inject Sub Q",
-                "is_stop": true
-            },
-            {
-                "name": "Follistim",
-                "details": "225 IU Follistim inject sub Q daily, (6-8pm)"
+                "name": "Gonal-F",
+                "details": "225 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Menopur",
-                "details": "150 IU Menopur inject sub Q daily, (6-8pm)"
+                "details": "150 IU inject Sub-Q daily (6–8 pm)"
             },
             {
                 "name": "Ganirelix",
-                "details": "250 MCG Ganirelix inject sub Q daily, (6-8pm)"
+                "details": "250 µg inject Sub-Q daily (6–8 pm)"
             }
         ]
     },
     {
         "date": "2025-07-25",
-        "milestone": "E2 (Lab) & U/S - Follicle monitoring",
+        "milestone": "E2 Lab & U/S – Follicle monitoring",
         "appointments": [
             {
-                "time": "8:00 AM",
-                "what": "E2 Lab & Follicle monitoring",
+                "time": "08:00",
+                "what": "E2 lab & follicle monitoring",
                 "where": "Advanced Reproductive Specialists - Panama"
             }
         ],
@@ -808,28 +811,28 @@
                 "details": "take 1 by mouth daily"
             },
             {
-                "name": "Follistim",
-                "details": "225 IU Follistim inject sub Q daily, (6-8pm)",
+                "name": "Gonal-F",
+                "details": "225 IU inject Sub-Q daily (6–8 pm)",
                 "is_stop": true
             },
             {
                 "name": "Menopur",
-                "details": "150 IU Menopur inject sub Q daily, (6-8pm)",
+                "details": "150 IU inject Sub-Q daily (6–8 pm)",
                 "is_stop": true
             },
             {
                 "name": "Ganirelix",
-                "details": "250 MCG Ganirelix inject sub Q daily, (6-8pm)",
+                "details": "250 µg inject Sub-Q daily (6–8 pm)",
                 "is_stop": true
             }
         ]
     },
     {
         "date": "2025-07-26",
-        "milestone": "TRG: Trigger & U/S - Follicle monitoring",
+        "milestone": "TRG: Trigger & U/S – Follicle monitoring",
         "appointments": [
             {
-                "time": "10:30 AM",
+                "time": "10:30",
                 "what": "Follicle monitoring",
                 "where": "Advanced Reproductive Specialists - Panama"
             }
@@ -841,7 +844,7 @@
             },
             {
                 "name": "Pregnyl",
-                "details": "10000 IU Pregnyl inject IM as directed",
+                "details": "10 000 IU inject IM (as directed)",
                 "is_trigger": true
             }
         ]
