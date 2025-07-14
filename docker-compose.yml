@@ -8,6 +8,9 @@ services:
     build: .
     container_name: cycleapp_container
     restart: unless-stopped
+    volumes:
+      - ./src:/usr/share/nginx/html
+      - ./src/schedule.json:/usr/share/nginx/html/schedule.json
 
   # This is the new Cloudflare Tunnel service
   cloudflared-tunnel:
